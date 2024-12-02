@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/casper/Документы/Codes/ProgramPassword/ProgramPassword.csproj",
+      "projectUniqueName": "/home/casper/Документы/Codes/ProgramPassword/ProgramPassword/ProgramPassword.csproj",
       "projectName": "ProgramPassword",
-      "projectPath": "/home/casper/Документы/Codes/ProgramPassword/ProgramPassword.csproj",
+      "projectPath": "/home/casper/Документы/Codes/ProgramPassword/ProgramPassword/ProgramPassword.csproj",
       "packagesPath": "/home/casper/.nuget/packages/",
-      "outputPath": "/home/casper/Документы/Codes/ProgramPassword/obj/",
+      "outputPath": "/home/casper/Документы/Codes/ProgramPassword/ProgramPassword/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/casper/.nuget/NuGet/NuGet.Config"
