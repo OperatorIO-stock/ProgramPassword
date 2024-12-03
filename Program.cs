@@ -7,18 +7,18 @@ class Program
         string userPassword = "1234";
         string userAnswer;
 
-        int numberOfAttempts = 3;
+        int numberOfAttempts = 2;
 
         Console.WriteLine("Welcome to the Program\nEnter the password:");
 
-        while(numberOfAttempts != 0)
+        for (int i = numberOfAttempts; i >= 0; i--)
         {
             userAnswer = Console.ReadLine();
 
             if(userAnswer != userPassword)
             {
-                Console.WriteLine("Access denied");
-                numberOfAttempts--;
+                Console.WriteLine("Access denied\n" +
+                                    $"There are still attempts left: {i}");
             }
             else
             {
