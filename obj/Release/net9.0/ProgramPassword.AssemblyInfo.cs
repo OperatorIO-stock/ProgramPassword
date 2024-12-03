@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramPassword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fabce41477451cc196828a9198f43266afdaf45c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f76e2d756a500cb5ae1e76f4dd6d35998d90cfad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramPassword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramPassword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,6 +23,7 @@ class Program
             else
             {
                 Console.WriteLine("Secret message...");
+                break;
             }
         }
     }
